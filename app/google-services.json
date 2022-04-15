@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292636121963",
+    "project_id": "note-found",
+    "storage_bucket": "note-found.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292636121963:android:21e81a2c3c83df27f94a2e",
+        "android_client_info": {
+          "package_name": "com.interyazilim.notefound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292636121963-8giuula9nt3sqecuu46t6uacuo3vk448.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRU3V2jEs9TpwM69RDb64vJmfNxxLPWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292636121963-8giuula9nt3sqecuu46t6uacuo3vk448.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
